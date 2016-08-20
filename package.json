@@ -1,0 +1,19 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Testing how to test",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "tests",
+    "tdd"
+  ],
+  "author": "Olawale Akinseye",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
